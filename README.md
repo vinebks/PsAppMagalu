@@ -1,0 +1,2 @@
+# PsAppMagalu
+Magalu App
