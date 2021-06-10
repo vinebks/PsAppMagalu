@@ -25,8 +25,8 @@ class ViewController: UIViewController {
         if menuOut == false    {
             
             
-            trailing.constant = -200
-            leading.constant = 200
+            trailing.constant = -230
+            leading.constant = 230
             menuOut = true
             
         }else {
